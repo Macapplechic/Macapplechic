@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Macapplechic
-- 👀 I’m interested in Engineering Leadership Opportunities
-- 🌱 I’m currently refreshing my skills
-- 💞️ I’m looking to collaborate on Engineering roles
 - 📫 How to reach me donovan.alicia@gmail.com
 
 <!---
